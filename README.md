@@ -25,7 +25,7 @@
 | **Ammar** | **Market & Competitor Research Analyst**<br>• Industry Benchmarking & Market Data Collection<br>• SWOT & Competitor Matrix Development |
 | **Eslam** | **SEO, Analytics & Performance Specialist**<br>• Performance Tracking & Measurement Metrics<br>• Documentation & Presentation Compilation |
 
----
+--------------
 
 ## 🗓️ Work Plan & Execution Phases
 
